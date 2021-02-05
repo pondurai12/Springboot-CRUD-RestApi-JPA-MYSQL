@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.springbootdev.examples</groupId>
-    <artifactId>SpringBoot-RestApi-JPA-Mysql</artifactId>
+    <artifactId>SpringBoot-RestApi-CRUD-JPA-Mysql</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
